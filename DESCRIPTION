@@ -1,6 +1,6 @@
 Package: fitODBODRshiny
-Title: Rshiny Application for fitODBOD
-Version: 1.0
+Title: Shiny Application for R Package fitODBOD
+Version: 1.0.0
 Authors@R: 
     person("Amalan", "Mahendran", , "amalan0595@gmail.com", role = c("cre", "aut"))
 Description: For binomial outcome data Alternate Binomial Distributions
