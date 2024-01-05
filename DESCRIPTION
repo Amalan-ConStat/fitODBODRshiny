@@ -1,0 +1,27 @@
+Package: fitODBODRshiny
+Title: Rshiny Application for fitODBOD
+Version: 1.0
+Authors@R: 
+    person("Amalan", "Mahendran", , "amalan0595@gmail.com", role = c("cre", "aut"))
+Description: For binomial outcome data Alternate Binomial Distributions
+    and Binomial Mixture Distributions are fitted when overdispersion is
+    available.
+License: MIT + file LICENSE
+URL: 
+    https://github.com/Amalan-ConStat/fitODBODRshiny,https://amalan-con-stat.shinyapps.io/fitODBODRshiny/
+BugReports: 
+    https://github.com/Amalan-ConStat/fitODBODRshiny,https://amalan-con-stat.shinyapps.io/fitODBODRshiny//issues
+Depends: 
+    R (>= 2.10)
+Imports: 
+    bslib,
+    config (>= 0.3.2),
+    ggplot2,
+    golem (>= 0.4.1),
+    gridlayout,
+    shiny (>= 1.8.0),
+    shinydashboard
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: xz
+RoxygenNote: 7.2.3
