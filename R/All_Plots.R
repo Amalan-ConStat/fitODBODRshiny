@@ -7,6 +7,7 @@
 #'
 #' @format A list with
 #' \describe{
+#' \item{\code{All_Data}}{All Datasets with binomial random variables and their frequencies}
 #' \item{\code{ABD_Table}}{Table results from the Alternate Binomial distribution}
 #' \item{\code{BMD_Table}}{Table results from the Binomial Mixture distributions}
 #' \item{\code{Bin_Plot}}{Plot for the fitted Binomial distribution}

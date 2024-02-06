@@ -2,7 +2,9 @@
 #'
 #' @param request Internal parameter for `{shiny}`.
 #'     DO NOT REMOVE.
-#' @import shiny bslib gridlayout ggplot2
+#' @import shiny
+#' @import bslib
+#' @import ggplot2
 #' @importFrom shinydashboard box
 #' @noRd
 app_ui <- function(request) {
@@ -287,16 +289,18 @@ app_ui <- function(request) {
         bslib::nav_panel(
           title = strong("Table for Alternate Binomial Distributions"),
           uiOutput("ABD_Table_Plot"),
+          actionButton("download_ABD", "Download ABD Summary"),
           shinydashboard::box(title = "Conclusion of Results",uiOutput("Text_ABD"),
                               width = 12,status = "primary",solidHeader = TRUE)
         ),
         bslib::nav_panel(
           title = strong("Table for Binomial Mixture Distributions"),
           uiOutput("BMD_Table_Plot"),
+          actionButton("download_BMD", "Download BMD Summary"),
           shinydashboard::box(title = "Conclusion of Results",uiOutput("Text_BMD"),
                               width = 12,status = "primary",solidHeader = TRUE)
         ),
-        bslib::nav_panel(title=HTML("</a></li><li><a href='https://amalan-con-stat.netlify.com/' target='_blank'>About Me"))
+        bslib::nav_panel(title=HTML("</a></li><li><a href='http://www.amalan-mahendran.com/' target='_blank'>About Me"))
       )
     )
   )
@@ -312,7 +316,7 @@ app_ui <- function(request) {
 #' @noRd
 golem_add_external_resources <- function() {
   add_resource_path(
-    "www",app_sys("app/www")
+    "www",app_sys("app/www")#,package = "fitODBODRshiny")
   )
 
   tags$head(

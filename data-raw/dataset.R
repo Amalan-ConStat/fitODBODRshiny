@@ -1,11 +1,11 @@
 ## code to prepare `dataset` dataset goes here
-## code to prepare `dataset` dataset goes here
 load("data-raw/Final_ABD_Plot_Table.RDA")
 load("data-raw/Final_BMD_Plot_Table.RDA")
 
 #Basic<-list("All_Data"=All_Data,"Theme_special"=Theme_special)
 
-All_Plots<-list("ABD_Table"=ABD_Table,
+All_Plots<-list("All_Data"=All_Data,
+                "ABD_Table"=ABD_Table,
                 "BMD_Table"=BMD_Table,
                 "Bin_Plot"=Bin_Plot,
                 "Add_Bin_Plot"=Add_Bin_Plot,

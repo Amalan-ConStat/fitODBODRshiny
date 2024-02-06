@@ -1,0 +1,10 @@
+name: fitodbodrshiny
+title:
+username: amalan-con-stat
+account: amalan-con-stat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11146686
+bundleId: 8225458
+url: https://amalan-con-stat.shinyapps.io/fitodbodrshiny/
+version: 1
