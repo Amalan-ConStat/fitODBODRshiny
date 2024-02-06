@@ -5,6 +5,6 @@ account: amalan-con-stat
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11146686
-bundleId: 8225458
+bundleId: 8225941
 url: https://amalan-con-stat.shinyapps.io/fitodbodrshiny/
 version: 1
