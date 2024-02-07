@@ -20,7 +20,7 @@
 ##
 golem::fill_desc(
   pkg_name = "fitODBODRshiny", # The Name of the package containing the App
-  pkg_title = "Rshiny Application for 'fitODBOD'", # The Title of the package containing the App
+  pkg_title = "'Shiny' Application for R Package 'fitODBOD'", # The Title of the package containing the App
   pkg_description = "For binomial outcome data Alternate Binomial Distributions and Binomial Mixture Distributions are fitted when overdispersion is available.", # The Description of the package containing the App
   author_first_name = "Amalan", # Your First Name
   author_last_name = "Mahendran", # Your Last Name
