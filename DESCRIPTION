@@ -8,9 +8,9 @@ Description: For binomial outcome data Alternate Binomial Distributions
     available.
 License: MIT + file LICENSE
 URL: 
-    https://github.com/Amalan-ConStat/fitODBODRshiny,https://amalan-con-stat.shinyapps.io/fitODBODRshiny/
+    https://github.com/Amalan-ConStat/fitODBODRshiny, https://amalan-con-stat.shinyapps.io/fitODBODRshiny/
 BugReports: 
-    https://amalan-con-stat.shinyapps.io/fitODBODRshiny/issues
+    https://github.com/Amalan-ConStat/fitODBODRshiny/issues
 Depends: 
     R (>= 2.10)
 Imports: 
