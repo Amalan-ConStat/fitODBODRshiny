@@ -34,13 +34,3 @@ All_Plots<-list("All_Data"=All_Data,
                 "McGBB_Bin_Par_Plot"=McGBB_Bin_Par_Plot)
 
 usethis::use_data(All_Plots,overwrite = TRUE,compress = "xz")
-
-
-
-
-
-
-
-
-
-
