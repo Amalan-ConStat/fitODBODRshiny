@@ -26,7 +26,7 @@ golem::fill_desc(
   author_last_name = "Mahendran", # Your Last Name
   author_email = "amalan0595@gmail.com", # Your Email
   repo_url =  "https://github.com/Amalan-ConStat/fitODBODRshiny,https://amalan-con-stat.shinyapps.io/fitODBODRshiny/", # The URL of the GitHub Repo (optional),
-  pkg_version = "1.0" # The Version of the package containing the App
+  pkg_version = "1.0.2" # The Version of the package containing the App
 )
 
 ## Set {golem} options ----

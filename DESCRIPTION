@@ -1,6 +1,6 @@
 Package: fitODBODRshiny
 Title: 'Shiny' Application for R Package 'fitODBOD'
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
     person("Amalan", "Mahendran", , "amalan0595@gmail.com", role = c("cre", "aut"))
 Description: For binomial outcome data Alternate Binomial Distributions
@@ -10,7 +10,7 @@ License: MIT + file LICENSE
 URL: 
     https://github.com/Amalan-ConStat/fitODBODRshiny,https://amalan-con-stat.shinyapps.io/fitODBODRshiny/
 BugReports: 
-    https://amalan-con-stat.shinyapps.io/fitODBODRshiny/issues
+    https://github.com/Amalan-ConStat/fitODBODRshiny/issues
 Depends: 
     R (>= 2.10)
 Imports: 

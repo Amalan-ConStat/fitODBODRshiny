@@ -393,24 +393,24 @@
     },
     "curl": {
       "Package": "curl",
-      "Version": "5.2.0",
+      "Version": "5.2.1",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "R"
       ],
-      "Hash": "ce88d13c0b10fe88a37d9c59dba2d7f9"
+      "Hash": "411ca2c03b1ce5f548345d2fc2685f7a"
     },
     "data.table": {
       "Package": "data.table",
-      "Version": "1.15.0",
+      "Version": "1.15.2",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "R",
         "methods"
       ],
-      "Hash": "cfbbb4aed6e78cd45f17123a9ec9981a"
+      "Hash": "536dfe4ac4093b5d115caed7a1a7223b"
     },
     "desc": {
       "Package": "desc",
@@ -571,7 +571,7 @@
     },
     "fitODBODRshiny": {
       "Package": "fitODBODRshiny",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -585,11 +585,11 @@
         "shinydashboard",
         "shinyscreenshot"
       ],
-      "Hash": "7628843013903a7e35bc8ff4c2b025a1"
+      "Hash": "10894bcd8268bdd57bc2fe62dd8c3fe5"
     },
     "flextable": {
       "Package": "flextable",
-      "Version": "0.9.4",
+      "Version": "0.9.5",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -609,7 +609,7 @@
         "uuid",
         "xml2"
       ],
-      "Hash": "db48820af2b3e5afa64726cf5615da27"
+      "Hash": "703b952d6be3f841274df7831ec95e5d"
     },
     "fontBitstreamVera": {
       "Package": "fontBitstreamVera",
@@ -668,7 +668,7 @@
     },
     "gdtools": {
       "Package": "gdtools",
-      "Version": "0.3.6",
+      "Version": "0.3.7",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -681,7 +681,7 @@
         "systemfonts",
         "tools"
       ],
-      "Hash": "39634ca05ad46d90c56087a92a314a3b"
+      "Hash": "b53e23731a5946448ad888efca14d2df"
     },
     "gert": {
       "Package": "gert",
@@ -1455,13 +1455,13 @@
     },
     "renv": {
       "Package": "renv",
-      "Version": "1.0.4",
+      "Version": "1.0.5",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "utils"
       ],
-      "Hash": "11abaf7c540ff33f94514d50f929bfd1"
+      "Hash": "32c3f93e8360f667ca5863272ec8ba6a"
     },
     "rex": {
       "Package": "rex",
@@ -1516,7 +1516,7 @@
     },
     "rmarkdown": {
       "Package": "rmarkdown",
-      "Version": "2.25",
+      "Version": "2.26",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -1529,14 +1529,13 @@
         "jsonlite",
         "knitr",
         "methods",
-        "stringr",
         "tinytex",
         "tools",
         "utils",
         "xfun",
         "yaml"
       ],
-      "Hash": "d65e35823c817f09f4de424fcdfa812a"
+      "Hash": "9b148e7f95d33aac01f31282d49e4f44"
     },
     "roxygen2": {
       "Package": "roxygen2",
@@ -1787,14 +1786,14 @@
     },
     "systemfonts": {
       "Package": "systemfonts",
-      "Version": "1.0.5",
+      "Version": "1.0.6",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "R",
         "cpp11"
       ],
-      "Hash": "15b594369e70b975ba9f064295983499"
+      "Hash": "6d538cff441f0f1f36db2209ac7495ac"
     },
     "testthat": {
       "Package": "testthat",
