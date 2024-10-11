@@ -15,9 +15,8 @@ library(badger)
 <!-- badges: start -->
 
 `r badge_cran_release("fitODBODRshiny")`
-[![packageversion](https://img.shields.io/badge/Package%20version-1.0.0-orange.svg?style=flat-square)](commits/main)
-`r badge_dependencies("fitODBODRshiny")`
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+`r badge_cran_checks("fitODBODRshiny")`
+`r badge_runiverse()`
 
 `r badge_cran_download("fitODBODRshiny", "grand-total", "green")`
 `r badge_cran_download("fitODBODRshiny", "last-month", "green")`
@@ -27,6 +26,7 @@ library(badger)
 `r badge_lifecycle("stable")`
 [![GitHub issues](https://img.shields.io/github/issues/Amalan-ConStat/fitODBODRshiny.svg?style=popout)](https://github.com/Amalan-ConStat/fitODBODRshiny/issues)
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 `r badge_code_size("Amalan-ConStat/fitODBODRshiny")`
 <!-- badges: end -->
 

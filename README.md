@@ -6,10 +6,10 @@
 <!-- badges: start -->
 
 [![](https://www.r-pkg.org/badges/version/fitODBODRshiny)](https://cran.r-project.org/package=fitODBODRshiny)
-[![packageversion](https://img.shields.io/badge/Package%20version-1.0.0-orange.svg?style=flat-square)](commits/main)
-[![Dependencies](https://tinyverse.netlify.com/badge/fitODBODRshiny)](https://cran.r-project.org/package=fitODBODRshiny)
-[![MIT
-license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![CRAN
+checks](https://badges.cranchecks.info/summary/fitODBODRshiny.svg)](https://cran.r-project.org/web/checks/check_results_fitODBODRshiny.html)
+[![r-universe status
+badge](https://Amalan-ConStat.r-universe.dev/badges/fitODBODRshiny)](https://Amalan-ConStat.r-universe.dev/fitODBODRshiny)
 
 [![](http://cranlogs.r-pkg.org/badges/grand-total/fitODBODRshiny?color=green)](https://cran.r-project.org/package=fitODBODRshiny)
 [![](http://cranlogs.r-pkg.org/badges/last-month/fitODBODRshiny?color=green)](https://cran.r-project.org/package=fitODBODRshiny)
@@ -22,6 +22,8 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 [![GitHub
 issues](https://img.shields.io/github/issues/Amalan-ConStat/fitODBODRshiny.svg?style=popout)](https://github.com/Amalan-ConStat/fitODBODRshiny/issues)
 
+[![MIT
+license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![](https://img.shields.io/github/languages/code-size/Amalan-ConStat/fitODBODRshiny.svg)](https://github.com/Amalan-ConStat/fitODBODRshiny)
 <!-- badges: end -->
 
