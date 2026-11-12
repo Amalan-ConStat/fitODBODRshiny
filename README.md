@@ -16,13 +16,13 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 [![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![GitHub
 issues](https://img.shields.io/github/issues/Amalan-ConStat/fitODBODRshiny.svg?style=popout)](https://github.com/Amalan-ConStat/fitODBODRshiny/issues)
-[![MIT
-license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 [![](http://cranlogs.r-pkg.org/badges/grand-total/fitODBODRshiny?color=green)](https://cran.r-project.org/package=fitODBODRshiny)
 [![](http://cranlogs.r-pkg.org/badges/last-month/fitODBODRshiny?color=green)](https://cran.r-project.org/package=fitODBODRshiny)
 [![](http://cranlogs.r-pkg.org/badges/last-week/fitODBODRshiny?color=green)](https://cran.r-project.org/package=fitODBODRshiny)
 [![](https://img.shields.io/github/languages/code-size/Amalan-ConStat/fitODBODRshiny.svg)](https://github.com/Amalan-ConStat/fitODBODRshiny)
+[![MIT
+license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 <!-- badges: end -->
 
