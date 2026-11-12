@@ -13,6 +13,7 @@ app_server <- function(input, output, session) {
 
   get_golem_options("All_Plots")
   All_Plots<-fitODBODRshiny::All_Plots
+
   # Your application server logic
   output$BinPlot <- renderPlot({
 

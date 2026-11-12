@@ -10,21 +10,20 @@
 checks](https://badges.cranchecks.info/summary/fitODBODRshiny.svg)](https://cran.r-project.org/web/checks/check_results_fitODBODRshiny.html)
 [![r-universe status
 badge](https://Amalan-ConStat.r-universe.dev/badges/fitODBODRshiny)](https://Amalan-ConStat.r-universe.dev/fitODBODRshiny)
-
-[![](http://cranlogs.r-pkg.org/badges/grand-total/fitODBODRshiny?color=green)](https://cran.r-project.org/package=fitODBODRshiny)
-[![](http://cranlogs.r-pkg.org/badges/last-month/fitODBODRshiny?color=green)](https://cran.r-project.org/package=fitODBODRshiny)
-[![](http://cranlogs.r-pkg.org/badges/last-week/fitODBODRshiny?color=green)](https://cran.r-project.org/package=fitODBODRshiny)
-
 [![Project Status: Active - The project has reached a stable, usable
 state and is being actively
 developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![GitHub
 issues](https://img.shields.io/github/issues/Amalan-ConStat/fitODBODRshiny.svg?style=popout)](https://github.com/Amalan-ConStat/fitODBODRshiny/issues)
-
 [![MIT
 license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+[![](http://cranlogs.r-pkg.org/badges/grand-total/fitODBODRshiny?color=green)](https://cran.r-project.org/package=fitODBODRshiny)
+[![](http://cranlogs.r-pkg.org/badges/last-month/fitODBODRshiny?color=green)](https://cran.r-project.org/package=fitODBODRshiny)
+[![](http://cranlogs.r-pkg.org/badges/last-week/fitODBODRshiny?color=green)](https://cran.r-project.org/package=fitODBODRshiny)
 [![](https://img.shields.io/github/languages/code-size/Amalan-ConStat/fitODBODRshiny.svg)](https://github.com/Amalan-ConStat/fitODBODRshiny)
+
 <!-- badges: end -->
 
 ## How to engage with “fitODBODRshiny” the first time ?
